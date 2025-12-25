@@ -1,0 +1,6 @@
+id,title,year,rating,votes
+1,"Bad Quotes, 2020,9.1,12000
+2,MissingFields,2019,8.0
+3,Extra,Fields,2018,7.8,3000,unexpected
+4,Comma In Title "Oops, Title",2017,7.0,2500
+5,Normal Row,2016,6.5,2000
