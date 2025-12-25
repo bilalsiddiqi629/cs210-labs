@@ -1,0 +1,5 @@
+Project notes – UTF-8 test ✅:
+• Consider reading line-by-line for large files.
+• Emojis: 😀🔥📦  Accented chars: naïve, façade, piñata.
+• Windows vs Unix newlines discussion coming soon.
+End of notes.
